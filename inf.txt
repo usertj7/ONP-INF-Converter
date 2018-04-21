@@ -1,0 +1,7 @@
+a)+(b 
+a+b+(~a-a) 
+x=~~a+b*c 
+t = ~ a < x < ~b 
+~a-~~b<c+d&!p|!!q 
+a^b*c-d<xp|q+x 
+x=~a*b/c-d+e%~f

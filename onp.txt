@@ -1,0 +1,5 @@
+ONP: ab+a~a-+ 
+ONP: xabcdefg++++++= 
+ONP: ab+c+d+e+f+g+ 
+ONP: abc++def++g++ 
+ONP: abc++def++g+++

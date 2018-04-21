@@ -1,0 +1,94 @@
+﻿  Source.cpp
+  onp_to_inf.cpp
+c:\users\dell\source\repos\onp inf converter\onp inf converter\onp_to_inf.cpp(105): warning C4838: conversion from 'const int' to 'SHORT' requires a narrowing conversion
+c:\users\dell\source\repos\onp inf converter\onp inf converter\onp_to_inf.cpp(117): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\source\repos\onp inf converter\onp inf converter\onp_to_inf.cpp(196): warning C4129: '+': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\onp_to_inf.cpp(196): warning C4129: '*': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\onp_to_inf.cpp(196): warning C4129: '/': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\onp_to_inf.cpp(196): warning C4129: '%': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\onp_to_inf.cpp(196): warning C4129: '^': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\onp_to_inf.cpp(206): warning C4129: '+': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\onp_to_inf.cpp(206): warning C4129: '*': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\onp_to_inf.cpp(206): warning C4129: '/': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\onp_to_inf.cpp(206): warning C4129: '%': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\onp_to_inf.cpp(206): warning C4129: '^': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\onp_to_inf.cpp(206): warning C4129: '~': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\onp_to_inf.cpp(224): warning C4129: '+': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\onp_to_inf.cpp(224): warning C4129: '*': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\onp_to_inf.cpp(224): warning C4129: '/': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\onp_to_inf.cpp(224): warning C4129: '%': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\onp_to_inf.cpp(224): warning C4129: '^': unrecognized character escape sequence
+  inf_to_onp.cpp
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(40): warning C4129: '+': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(40): warning C4129: '*': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(40): warning C4129: '/': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(40): warning C4129: '%': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(40): warning C4129: '^': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(40): warning C4129: '~': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(40): warning C4129: ')': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(40): warning C4129: '(': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(58): warning C4129: '+': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(58): warning C4129: '*': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(58): warning C4129: '/': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(58): warning C4129: '%': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(58): warning C4129: '^': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(80): warning C4129: '+': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(80): warning C4129: '*': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(80): warning C4129: '/': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(80): warning C4129: '%': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(80): warning C4129: '^': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(106): warning C4129: '(': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(107): warning C4129: ')': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(118): warning C4129: '(': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(119): warning C4129: ')': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(153): warning C4838: conversion from 'const int' to 'SHORT' requires a narrowing conversion
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(163): warning C4129: '+': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(163): warning C4129: '*': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(163): warning C4129: '/': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(163): warning C4129: '%': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(163): warning C4129: '^': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(163): warning C4129: ')': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(166): warning C4129: ')': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(166): warning C4129: '(': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(169): warning C4129: '+': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(169): warning C4129: '*': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(169): warning C4129: '/': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(169): warning C4129: '%': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(169): warning C4129: '^': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(169): warning C4129: ')': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(172): warning C4129: '+': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(172): warning C4129: '*': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(172): warning C4129: '/': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(172): warning C4129: '%': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(172): warning C4129: '^': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(172): warning C4129: ')': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(175): warning C4129: ')': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(178): warning C4129: '+': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(178): warning C4129: '*': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(178): warning C4129: '/': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(178): warning C4129: '%': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(178): warning C4129: '^': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(181): warning C4129: '+': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(181): warning C4129: '*': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(181): warning C4129: '/': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(181): warning C4129: '%': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(181): warning C4129: '^': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(181): warning C4129: '(': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(184): warning C4129: '(': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(184): warning C4129: '+': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(184): warning C4129: '*': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(184): warning C4129: '/': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(184): warning C4129: '%': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(184): warning C4129: '^': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(184): warning C4129: '~': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(184): warning C4129: ')': unrecognized character escape sequence
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(285): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\source\repos\onp inf converter\onp inf converter\inf_to_onp.cpp(291): warning C4018: '<': signed/unsigned mismatch
+  functions_and_checkers.cpp
+c:\users\dell\source\repos\onp inf converter\onp inf converter\functions_and_checkers.cpp(11): warning C4838: conversion from 'const int' to 'SHORT' requires a narrowing conversion
+c:\users\dell\source\repos\onp inf converter\onp inf converter\menu.h(18): warning C4838: conversion from 'const int' to 'SHORT' requires a narrowing conversion
+  c:\users\dell\source\repos\onp inf converter\onp inf converter\menu.h(17): note: while compiling class template member function 'void Menu<onp_to_inf,void>::position(const int,const int)'
+  c:\users\dell\source\repos\onp inf converter\onp inf converter\menu.h(41): note: see reference to function template instantiation 'void Menu<onp_to_inf,void>::position(const int,const int)' being compiled
+  c:\users\dell\source\repos\onp inf converter\onp inf converter\functions_and_checkers.cpp(98): note: see reference to class template instantiation 'Menu<onp_to_inf,void>' being compiled
+  Generating Code...
+  ONP INF Converter.vcxproj -> C:\Users\DELL\source\repos\ONP INF Converter\Debug\ONP INF Converter.exe
